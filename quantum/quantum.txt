@@ -1,0 +1,14 @@
+"quantum"
+{
+	"base"		"base"
+	"title"		"Quantum"
+	"maps"		"^gm_"
+	"menusystem"	"1"
+	"workshopid"	"15895"
+
+	"settings"
+	{
+
+	}
+
+}

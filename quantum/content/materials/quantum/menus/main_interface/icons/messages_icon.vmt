@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "quantum/menus/main_interface/icons/messages_icon"
+	"$translucent" 1
+}
